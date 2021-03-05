@@ -11,9 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  sqflite: ^1.1.7
+  sqflite: ^2.0.0+2
   shared_preferences: ^0.5.6+2
-  get_it: ^5.0.1
+  get_it: ^6.0.0
 
 dev_dependencies:
   flutter_test:
